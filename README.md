@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# sygsfhuifhuenfjk
-=======
-# smart crop
->>>>>>> main
+# crop
